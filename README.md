@@ -1,8 +1,21 @@
-# 4IC PATTERN
+# 4IC Pattern
 
-### Pattern Abstract Factory [Simone Bolzonella - Matteo Ragazzo - Matteo Fusati] →  [OUR  REPO](https://github.com/Bolzo13/Abstract-Factory)
+I materiali qui contenuti fanno riferimento principalmente ai **design pattern** vedi [voce](https://en.wikipedia.org/wiki/Design_Patterns) di Wikipedia (en); vengono proposti dalla 4IC nell'AS 2017-2018 (ITIS Zuccante Mestre, Venezia).
 
-### Pattern Observer [Florian Sabani - D'Attero Andrea - David Ambros] →  [OUR  REPO](https://github.com/datteroandrea/Pattern_Observer)
+## Creational pattern
 
-### Pattern MVC [Botusharov - Cappellato - Ingaliso - Rosato] →  [OUR  REPO](https://github.com/ObZenTish/Pattern-MVC)
-> TIBERIVS CLAVDIVS CAESAR says "lxxt>33m2mqkyv2gsq3q=w]O2ntk"
+- Abstract Factory: Simone Bolzonella, Matteo Ragazzo, Matteo Fusati; [our repo](https://github.com/Bolzo13/Abstract-Factory).
+- Factory Method
+- Singleton
+
+## Structural
+
+- Adaper
+- Bridge
+- Decorator: non presentato.
+
+## Behavioral
+
+- Iterator
+- Observer: Florian Sabani, Andrea D'Attero, David Ambros; [our repo](https://github.com/datteroandrea/Pattern_Observer).
+- MVC (ovvero observer modificato): Botusharov, Cappellato, Ingaliso, Rosato; [our repo](https://github.com/ObZenTish/Pattern-MVC).
