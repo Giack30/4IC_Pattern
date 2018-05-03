@@ -6,7 +6,7 @@ I materiali qui contenuti fanno riferimento principalmente ai **design pattern**
 
 - Abstract Factory: Simone Bolzonella, Matteo Ragazzo, Matteo Fusati; [our repo](https://github.com/Bolzo13/Abstract-Factory).
 - Factory Method
-- Singleton
+- Singleton: Giacomo Romano, Francesco Fortunato, Marco Pistollato.
 
 ## Structural
 
