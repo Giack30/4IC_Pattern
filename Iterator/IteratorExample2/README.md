@@ -1,4 +1,5 @@
-# PATTERN Iterator!Interface Visitatore -->Contiene 5 metodi per la visita dell'albero 
+# PATTERN Iterator!Interface Visitatore
+Contiene 5 metodi per la visita dell'albero 
 ```javapublic interface Visitatore<T>{
     public boolean hasNextSx();
     public boolean hasNextDx();
