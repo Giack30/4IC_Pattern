@@ -1,4 +1,5 @@
-# PATTERN Iterator!Interface Visitatore
+# PATTERN Iterator implementato su un albero binario
+Interface Visitatore
 Contiene 5 metodi per la visita dell'albero 
 ```javapublic interface Visitatore<T>{
     public boolean hasNextSx();
